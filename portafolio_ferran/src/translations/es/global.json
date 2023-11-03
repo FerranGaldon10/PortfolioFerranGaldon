@@ -1,0 +1,52 @@
+{
+    "maininfo": {
+        "prof":"Profesional de la Tecnología Digital y Multimedia",
+        "desc": "Especializado en desarrollo web, creo soluciones digitales inclusivas y fáciles de usar, y también me dedico a proyectos creativos para mejorar su experiencia online.",
+        "about": "Sobre mí",
+        "education": "Educación",
+        "projects": "Proyectos",
+        "skills": "Habilidades"
+    },
+    "about" : {
+        "about":"Sobre mí",
+        "desc1": "Profesional de la Tecnología Digital y Multimedia con intención de introducirse en el mundo empresarial dispuesto a aportar soluciones a la actual transformación digital de la sociedad, haciendo hincapié en los sistemas multimedia y adaptándose a la evolución de las tecnologías emergentes y demandadas.",
+        "desc2": "Apasionado por el mundo del desarrollo web, uno de mis enfoques se centra en el frontend y backend, buscando crear experiencias digitales excepcionales desde la interfaz de usuario hasta la rebustez del servidor.",
+        "desc3": "Cuando no estoy frente al ordenador, me gusta hacer deporte, jugar a videojuegos o, sobre todo, pasar tiempo con la familia y los amigos."
+    },
+    "education": {
+        "education": "Educación",
+        "date1": "2013 - 2018",
+        "school1": "IES Càrcer",
+        "grade1": "ESO & Bachillerato",
+        "desc1": "Graduado en ESO y Bachillerato en el IES Càrcer, un pequeño instituto situado en la localidad valenciana de Càrcer, que cubre los estudios de varios pueblos de los alrededores.",
+        "date2": "2020 - 2023",
+        "school2": "Universitat Poliècnica de València | ETSIT",
+        "grade2": "Grado en Tencología Digital y Multimedia",
+        "desc2": "Diplomado en la 1a Promoción del Grado en Tecnología Digital y Multimedia en la Escuela Técnica Superior de Ingenieros de Telecomunicación de la Universitat Politécnica de València."
+    },
+    "resume": {
+        "part1": "Ver Currículum",
+        "part2": "Completo"
+
+    },
+    "projects": {
+        "projects": "Proyectos",
+        "portfolio": "Portafolio",
+        "inprod": "En producción",
+        "desc1": "Portfolio desarrollado con ReactJs, TailwindCSS y desplegado en Netlify.",
+        "desc12": "Un sitio web minimalista, contemporáneo y sencillo.",
+        "netflix": "Clon de Netflix",
+        "improve": "Mejorándolo",
+        "desc2": "Clon Fullstack de Netlix con ReactJs, NextJs TailwindCSS y Prisma.",
+        "desc22":"Proyecto educativo para aprender y mejorar NextJs, TypeScript y Prisma desplegado en Vercel.",
+        "tfg": "Trabajo Fin de Grado",
+        "finished": "Terminado",
+        "desc3": "Desarrollo de una plataforma de negocio textil online: informática, tecnología multimedia y diseño."
+    },
+    "skills": {
+        "skills": "Habilidades"
+    },
+    "footer": {
+        "desc":"Diseñado libremente en Figma y programado en Visual Studio Code por mi persona. Desarrollado con React.js y Tailwind CSS, desplegado con Netlify. Todo el texto se establece en la tipografía Inter."
+    }
+}
